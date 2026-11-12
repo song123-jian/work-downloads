@@ -1,0 +1,30 @@
+{
+  "desktop_version": "1.8.26",
+  "installer_revision": "r13",
+  "android_version": "1.68",
+  "android_version_code": 51,
+  "release": "https://github.com/song123-jian/work-downloads/releases/tag/desktop-1.8.26-android-1.68",
+  "artifacts": [
+    {
+      "name": "Work-Desktop-1.8.26.exe",
+      "version": "1.8.26",
+      "bytes": 196986756,
+      "sha256": "e57209c75ea4712618fd7e09bc64391ca5ce642daaf4965379609a382d5c5034",
+      "download": "https://github.com/song123-jian/work-downloads/releases/download/desktop-1.8.26-android-1.68/Work-Desktop-1.8.26.exe"
+    },
+    {
+      "name": "Work-Desktop-1.8.26-Setup.exe",
+      "version": "1.8.26/r13",
+      "bytes": 198097055,
+      "sha256": "b5dc32ace741afe466dd7a23c7eefed55805e69747f1fcbffbb279813cd64928",
+      "download": "https://github.com/song123-jian/work-downloads/releases/download/desktop-1.8.26-android-1.68/Work-Desktop-1.8.26-Setup.exe"
+    },
+    {
+      "name": "Work-Android-1.68.apk",
+      "version": "1.68/code51",
+      "bytes": 90747776,
+      "sha256": "af600f5015b4e6729699acd28730e2a7088fa30fb7d7d9e58b8ac5a328f9e2b3",
+      "download": "https://github.com/song123-jian/work-downloads/releases/download/desktop-1.8.26-android-1.68/Work-Android-1.68.apk"
+    }
+  ]
+}
